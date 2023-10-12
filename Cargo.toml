@@ -1,0 +1,2 @@
+[workspace]
+members = ["xtask", "sync-cookies", "sync-cookies-common"]
