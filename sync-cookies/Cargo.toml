@@ -20,7 +20,7 @@ tokio = { version = "1.25", features = [
     "net",
     "signal",
 ] }
-network-types = "0.0.4"
+
 
 [[bin]]
 name = "sync-cookies"
